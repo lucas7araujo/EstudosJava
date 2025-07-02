@@ -1,0 +1,12 @@
+
+Marca: Fiat
+Modelo: IDEA
+Ano: 2009
+Placa:HJP2695
+Quilometragem: 120870.0 Km
+
+Marca: HONDA
+Modelo: HRV
+Ano: 2028
+Placa:HSI2G7
+Quilometragem: 0.0 Km
